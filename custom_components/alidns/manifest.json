@@ -5,7 +5,7 @@
   "dependencies": [],
   "codeowners": [],
   "requirements": [
-    "aliyun-python-sdk-core==2.13.14",
-    "aliyun-python-sdk-alidns==2.0.15"
+    "aliyun-python-sdk-core==2.15.1",
+    "aliyun-python-sdk-alidns==3.0.7"
   ]
 }
