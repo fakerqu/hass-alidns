@@ -7,5 +7,6 @@
   "requirements": [
     "aliyun-python-sdk-core==2.15.1",
     "aliyun-python-sdk-alidns==3.0.7"
-  ]
+  ],
+  "version":"1.0.0"
 }
